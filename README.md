@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**zohanleibert/zohanleibert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Zohan
 
-Here are some ideas to get you started:
+```bash
+$ whoami
+Cybersecurity student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ skills
+Web Recon • OSINT • Linux • Python
+
+$ currently_learning
+Bug Bounty & Web Security
+```
+
+I like understanding how systems work — and how they fail.
+
+Most people use technology blindly.
+I prefer opening the hood.
+
+---
+
+### Stack
+
+* Ubuntu
+* Python
+* Bash
+* Git
+* Burp Suite
+* Nmap
+* FFUF
+
+---
+
+### Current Direction
+
+* Web application security
+* Recon automation
+* Vulnerability research
+* Linux workflow
+
+---
+
+### Philosophy
+
+> “In a world full of noise, quiet people notice more.”
+
+Less talking.
+More observing.
