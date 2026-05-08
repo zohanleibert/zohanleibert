@@ -20,7 +20,7 @@ I prefer opening the hood.
 ---
 
 ### Stack
-
+* KaliLinux
 * Ubuntu
 * Python
 * Bash
