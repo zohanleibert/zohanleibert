@@ -1,48 +1,68 @@
-
-# Zohan
+# 👋 Hey, I'm zohan
 
 ```bash
-$ whoami
-Cybersecurity student
-
-$ skills
-Web Recon • OSINT • Linux • Python
-
-$ currently_learning
-Bug Bounty & Web Security
+> Cybersecurity Student
+> Ethical Hacking Learner
+> Ubuntu User
+> Exploring Web Security
 ```
 
-I like understanding how systems work — and how they fail.
+---
 
-Most people use technology blindly.
-I prefer opening the hood.
+## 🧠 About Me
+
+I enjoy understanding how systems work — and how they break.
+
+Currently focused on:
+
+* Web Application Security
+* Recon Automation
+* Bug Bounty Methodology
+* Linux & Python
 
 ---
 
-### Stack
-* KaliLinux
+## ⚔️ Recon Stack
+
+| Category    | Tools                         |
+| ----------- | ----------------------------- |
+| Enumeration | subfinder, assetfinder, amass |
+| Probing     | httpx, dnsx                   |
+| Crawling    | katana, hakrawler             |
+| Fuzzing     | ffuf                          |
+| Scanning    | nuclei, naabu                 |
+| Analysis    | gf, qsreplace, unfurl         |
+| Other       | notify, gau, waybackurls      |
+
+---
+
+## 🐧 Environment
+
 * Ubuntu
-* Python
+* Kali Linux
 * Bash
+* Python
 * Git
-* Burp Suite
-* Nmap
-* FFUF
 
 ---
 
-### Current Direction
+## 📊 GitHub Stats
 
-* Web application security
-* Recon automation
-* Vulnerability research
-* Linux workflow
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zohanleibert\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=zohanleibert\&theme=tokyonight)
 
 ---
 
-### Philosophy
+## 🏆 GitHub Trophies
 
-> “In a world full of noise, quiet people notice more.”
+![trophy](https://github-profile-trophy.vercel.app/?username=zohanleibert\&theme=onedark)
+
+---
+
+## 🌌 Philosophy
+
+> “Silence reveals more than noise.”
 
 Less talking.
 More observing.
