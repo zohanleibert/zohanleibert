@@ -3,7 +3,7 @@
 ```bash
 > Cybersecurity Student
 > Ethical Hacking Learner
-> Ubuntu User
+> Ubuntu & kali & Win User
 > Exploring Web Security
 ```
 
