@@ -1,3 +1,5 @@
+
+<img src="https://raw.githubusercontent.com/zohanleibert/zohanleibert/main/banner.png" width="100%" />
 # 👋 Hey, I'm zohan
 
 ```bash
