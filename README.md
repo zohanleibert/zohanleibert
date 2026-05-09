@@ -48,6 +48,8 @@ Currently focused on:
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=linux,python,bash,git,vim,vscode,docker)](https://skillicons.dev)
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zohanleibert\&show_icons=true\&theme=tokyonight)
